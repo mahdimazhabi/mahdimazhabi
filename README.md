@@ -6,13 +6,21 @@
 Here are some ideas to get you started:
 
 👋 Hi, I'm a Computer Engineer with a passion for coding and creating dynamic web experiences. As a Front-End Developer, I specialize in crafting responsive and user-friendly interfaces using the latest technologies. I'm always eager to learn and take on new challenges to improve my skills and contribute to exciting projects.
+
 🔭 I’m currently working on building dynamic and responsive web applications using React.
+
 🌱 I’m currently learning advanced CSS techniques and exploring design systems.
+
 👯 I’m looking to collaborate on open-source front-end projects, especially those involving React or TailwindCSS.
+
 🤔 I’m looking for help with integrating complex APIs and optimizing front-end performance.
+
 💬 Ask me about front-end development, especially React, CSS, and responsive design.
+
 📫 How to reach me: You can reach me via LinkedIn or Email.
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I'm a great cook and love experimenting with new recipes!
 
 
