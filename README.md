@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-**mahdimazhabi/mahdimazhabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 👋 Hi, I'm a Computer Engineer with a passion for coding and creating dynamic web experiences. As a Front-End Developer, I specialize in crafting responsive and user-friendly interfaces using the latest technologies. I'm always eager to learn and take on new challenges to improve my skills and contribute to exciting projects.
 
